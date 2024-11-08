@@ -1,4 +1,4 @@
--- Ceating tables
+-- Creating tables
 CREATE TABLE covid_deaths(
 	iso_code VARCHAR(10),
 	continent VARCHAR(30),
